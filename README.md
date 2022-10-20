@@ -51,3 +51,13 @@ Fungsi dari **Docker** adalah untuk menyatukan beberapa file dalam sebuah progra
 IceHrm dapat menggunakan satu sistem  perangkat lunak untuk semua fungsi HRM, karena perangkat lunak HRM lainnya dirancang untuk fungsi HRM tertentu secara terpisah.
 
 IceHrm memiliki pilihan tiga edisi dengan setiap edisi memiliki fitur berbeda. sesuai kebutuhan SDM organisasi masing - masing atau berdasarkan jumlah karyawan di organisasi.
+
+# Screenshoot
+![2](https://user-images.githubusercontent.com/91837561/196994888-a8fa7902-0c4e-44f8-a77a-9691bfbc3e8b.png)
+![3](https://user-images.githubusercontent.com/91837561/196994926-5e2499dc-f463-41be-b1a7-5b67582d995b.png)
+![4](https://user-images.githubusercontent.com/91837561/196995044-2b375077-dd04-4053-ab38-3ecbef34135c.png)
+![5](https://user-images.githubusercontent.com/91837561/196995205-6c97026b-484f-42b7-a886-8f82bdc9c4b5.png)
+![6](https://user-images.githubusercontent.com/91837561/196995097-1aec750b-f92c-4a75-a6e2-b1b91a92fce5.png)
+![5](https://user-images.githubusercontent.com/91837561/196995244-58846f85-804c-4950-b992-41e174b86bfe.png)
+![9](https://user-images.githubusercontent.com/91837561/196995275-609f3429-8db6-4a79-80f0-81bfd429b514.png)
+
