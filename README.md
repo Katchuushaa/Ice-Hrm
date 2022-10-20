@@ -1,8 +1,8 @@
-# Komunikasi Data dan Jaringan Komputer
-## Kelompok 9
-~ Daffa fikri
-~ Dzakiyyah Hasbi
-~ Maya Amelia
+#### Komunikasi Data dan Jaringan Komputer
+##### Kelompok 9
+- Daffa fikri
+- Dzakiyyah Hasbi
+- Maya Amelia
 
 IceHrm
 ==========
