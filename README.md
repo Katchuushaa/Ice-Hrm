@@ -1,4 +1,4 @@
-#### Komunikasi Data dan Jaringan Komputer
+#### Komunikasi Data dan Jaringan Komputer (P2)
 ##### Kelompok 9
 - Daffa fikri
 - Dzakiyyah Hasbi
