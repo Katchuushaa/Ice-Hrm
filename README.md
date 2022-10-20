@@ -1,3 +1,9 @@
+# Komunikasi Data dan Jaringan Komputer
+## Kelompok 9
+~ Daffa fikri
+~ Dzakiyyah Hasbi
+~ Maya Amelia
+
 IceHrm
 ==========
 **IceHrm** merupakan sebuah aplikasi web "Human Resources Management" atau manajemen sumberdaya manusia yang memungkinkan perusahaan untuk mengelola aktivitas SDM dengan benar dan lengkap.
